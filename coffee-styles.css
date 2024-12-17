@@ -1,11 +1,11 @@
-
-	background: #8acdeb;
+body {
+  background: #8acdeb;
 }
 #container {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 .steam {
   position: absolute;
@@ -118,3 +118,4 @@
   margin-left: 6px;
   background-color: #7bb8d4;
 }
+	
